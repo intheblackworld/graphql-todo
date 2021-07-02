@@ -1,13 +1,13 @@
 # To-do list 範例
 ### 使用技術
-React 
+React
 Apollo (Graphql)
 Ant-Design (UI Component)
 Styled-components (style)
 
 ### 架構
 todo-list-client - 前端
-todo-list-server - 後端
+todo-list-server - 後端
 lru-cache - 資料庫
 
 

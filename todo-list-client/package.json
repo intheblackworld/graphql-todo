@@ -1,0 +1,24 @@
+{
+  "name": "todo-list-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "@apollo/client": "3.3.15",
+    "antd": "^4.16.6",
+    "graphql": "15.5.0",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
+    "react-scripts": "3.4.0"
+  },
+  "devDependencies": {},
+  "browserslist": [
+    "> 1%"
+  ],
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
